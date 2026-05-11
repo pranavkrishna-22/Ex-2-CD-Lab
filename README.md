@@ -32,6 +32,10 @@
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
+<img width="1067" height="260" alt="image" src="https://github.com/user-attachments/assets/68b550e2-ed6d-4333-b4e6-51cf0f758cbc" />
+
 # OUTPUT
+<img width="977" height="544" alt="image" src="https://github.com/user-attachments/assets/88752331-f20d-4304-97dd-fff83beb17ad" />
+
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
